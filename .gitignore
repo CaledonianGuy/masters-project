@@ -1,0 +1,21 @@
+Library/
+Logs/
+Temp/
+
+Packages/
+ProjectSettings/
+UserSettings/
+
+Assets/Hexagonal Tiles/
+Assets/Scenes/
+Assets/Tile Palettes/
+Assets/Hexagonal Tiles.meta
+Assets/Scenes.meta
+Assets/Tile Palettes.meta
+
+Unity.*
+UnityEditor.*
+UnityEngine.*
+PsdPlugin.csproj
+Assembly-CSharp.*
+Masters Project.sln
